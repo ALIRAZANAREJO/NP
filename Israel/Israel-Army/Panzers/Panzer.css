@@ -6,7 +6,7 @@ body {
   outline: none;
 }
 .background-image {
-  background-image: url("/Israel/img/Hammaz\ Army.webp"); 
+  background-image: url("../img/Hammaz\ Army.webp"); 
   background-size: cover;
   background-position: center;
   position: fixed;

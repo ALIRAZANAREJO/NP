@@ -6,7 +6,7 @@ body {
   outline: none;
 }
 .background-image {
-  background-image: url('/Israel/img/5th\ Gen.jpg'); 
+  background-image: url('../img/5th\ Gen.jpg'); 
   background-size: cover;
   background-position: center;
   position: fixed;

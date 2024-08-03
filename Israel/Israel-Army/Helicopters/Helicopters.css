@@ -6,7 +6,7 @@ body {
   outline: none;
 }
 .background-image {
-  background-image: url("/Israel/img/Boeing\ AH-64\ Apache.jpg");
+  background-image: url("../img/Boeing\ AH-64\ Apache.jpg");
   background-size: cover;
   background-position: center;
   position: fixed;

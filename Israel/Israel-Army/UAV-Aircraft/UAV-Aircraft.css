@@ -6,7 +6,7 @@ body {
   outline: none;
 }
 .background-image {
-  background-image: url("/Israel/img/Hermez\ 900\ dron1.jpg"); 
+  background-image: url("../img/Hermez\ 900\ dron1.jpg"); 
   background-size: cover;
   background-position: center;
   position: fixed;
