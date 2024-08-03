@@ -8,7 +8,7 @@ body {
   align-items: center;
 }
 .background-image {
-  background-image: url('./paletine.webp');
+  background-image: url('./images/Palestine.jpg');
   background-size: cover;
   background-position: center;
   position: fixed;
