@@ -6,7 +6,7 @@ body {
     outline: none;
   }
   .background-image {
-    background-image: url('/Israel/img/Rav\ Aluf\ Herzi\ Halevi.jpeg');
+    background-image: url('../img/Rav\ Aluf\ Herzi\ Halevi.jpeg');
     background-size: cover;
     background-position: center;
     position: fixed;
