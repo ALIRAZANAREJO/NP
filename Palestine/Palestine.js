@@ -8,7 +8,7 @@ const cityRoutes = {
   "israel attack at palestine": "/IsraelAttackOnPalestine/Attack1948.html",
   "hamas":"/Hammaz-&-israel-War/Hammaz-Attack-On-Israel.html",
 
-  "my profile":"/Profile/profile.html",
+  "my profile":"../Profile/profile.html",
   "palestine cities": "/PC/PC.html",
   "history of israel": "/Israel/History/History.html",
   "dream of israel" :"/Israel/Dream-of-israel/Dream-of-israel.html",
