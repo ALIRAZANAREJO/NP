@@ -261,7 +261,7 @@ startTyping();
 export { handleKeyPress };
 
 document.getElementById('up').addEventListener('click', function() {
-  window.location.href = '/Profile/profile.html';
+  window.location.href = './Profile/profile.html';
 });
 
 
@@ -368,7 +368,7 @@ const storage = getStorage(app);
 
 document.getElementById('signOutBtn').addEventListener('click', () => {
   signOut(auth).then(() => {
-    window.location.href = '/index.html'; // Redirect to the login page after sign-out
+    window.location.href = 'index.html'; // Redirect to the login page after sign-out
   }).catch((error) => {
     console.error('Sign Out Error', error);
   });
