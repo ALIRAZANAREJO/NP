@@ -235,14 +235,13 @@ import { getFirestore, doc, getDoc, setDoc } from "https://www.gstatic.com/fireb
 import { getStorage, ref, uploadBytes, getDownloadURL } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-storage.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBU1hAfS6lBhqUEqkojudb9wxeMhfm1KSU",
-  authDomain: "noted-door-402706.firebaseapp.com",
-  databaseURL: "https://noted-door-402706-default-rtdb.firebaseio.com",
-  projectId: "noted-door-402706",
-  storageBucket: "noted-door-402706.appspot.com",
-  messagingSenderId: "1061156658421",
-  appId: "1:1061156658421:web:a2db8c244c8b3698f2b9bc",
-  measurementId: "G-BN6E8PC088"
+  apiKey: "AIzaSyCmL8qcjg4S6NeY3erraq_XhlDJ7Ek2s_E",
+  authDomain: "palestine-web.firebaseapp.com",
+  projectId: "palestine-web",
+  storageBucket: "palestine-web.appspot.com",
+  messagingSenderId: "35190212487",
+  appId: "1:35190212487:web:0a699bb1fa7b1a49113522",
+  measurementId: "G-8TE04Z9ZFW"
 };
 
 const app = initializeApp(firebaseConfig);
