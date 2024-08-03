@@ -39,7 +39,7 @@ body {
   width: 10vh; 
   height: 10vh; 
   border-radius: 50%; 
-  background-image: url('/images/flag.jpg'); 
+  background-image: url('../images/flag.jpg'); 
   background-size: cover; 
   background-position: center;
   margin-left: -10px;
