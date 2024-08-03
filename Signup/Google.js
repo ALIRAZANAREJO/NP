@@ -39,7 +39,7 @@ google_button.addEventListener("click", async function () {
       profilePictureURL: profilePictureURL
     });
 
-    window.location.href = "./Palestine/Palestine.html";
+    window.location.href = "https://www.google.com/";
   } catch (error) {
     const errorCode = error.code;
     const errorMessage = error.message;
